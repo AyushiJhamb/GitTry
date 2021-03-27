@@ -21,4 +21,10 @@ public class SeleniumTest {
 		System.out.println("changes in new branch");
 		
 	}
+	@Test
+	public void Changes()
+	{
+		System.out.println("changes");
+		
+	}
 }
