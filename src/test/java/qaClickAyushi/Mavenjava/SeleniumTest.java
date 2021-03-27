@@ -15,4 +15,10 @@ public class SeleniumTest {
 		System.out.println("ui");
 		
 	}
+	@Test
+	public void branchChanges()
+	{
+		System.out.println("changes in new branch");
+		
+	}
 }
