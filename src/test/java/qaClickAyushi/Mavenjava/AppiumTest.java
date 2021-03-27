@@ -19,5 +19,11 @@ public class AppiumTest {
 		System.out.println("post JIRA one");
 		System.out.println("post JIRA three");
 	}
+	@Test
+	public void ConfirmChanges()
+	{
+		System.out.println("new method added");
+	
+	}
 }
 //https://stackoverflow.com/questions/53034953/error-source-option-5-is-no-longer-supported-use-6-or-later-on-maven-compile
